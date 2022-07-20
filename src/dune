@@ -1,0 +1,5 @@
+(library
+ (name ppx_macro)
+ (public_name ppx_macro)
+ (kind ppx_rewriter)
+ (libraries ppxlib))
